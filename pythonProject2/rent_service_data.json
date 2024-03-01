@@ -1,0 +1,10 @@
+[
+    {
+        "item_type": "Electronic",
+        "name": "laptop",
+        "price": 500.0,
+        "details": "Brand: apple",
+        "availability": true,
+        "return_date": null
+    }
+]
